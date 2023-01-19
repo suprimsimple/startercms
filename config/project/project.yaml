@@ -1,0 +1,27 @@
+dateModified: 1674168198
+email:
+  fromEmail: admin@example.com
+  fromName: startercms
+  transportType: craft\mail\transportadapters\Sendmail
+meta:
+  __names__:
+    137c1ccb-2f50-44b0-9bdc-95a7ca94ca6f: startercms # startercms
+    350d827d-7eb8-4e54-bb48-2b94be3bc032: startercms # startercms
+    bfc533a6-a70f-4c4a-8479-aea181b5be6b: Common # Common
+plugins:
+  vite:
+    edition: standard
+    enabled: true
+    schemaVersion: 1.0.0
+system:
+  edition: solo
+  live: true
+  name: startercms
+  schemaVersion: 4.0.0.9
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  requireEmailVerification: true

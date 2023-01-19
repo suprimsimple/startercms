@@ -1,0 +1,8 @@
+baseUrl: $PRIMARY_SITE_URL
+handle: default
+hasUrls: true
+language: en-US
+name: startercms
+primary: true
+siteGroup: 137c1ccb-2f50-44b0-9bdc-95a7ca94ca6f # startercms
+sortOrder: 1
