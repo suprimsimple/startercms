@@ -26,7 +26,7 @@ export default defineConfig(({ command }) => ({
     viteCompression({
       filter: /\.(js|mjs|json|css|map)$/i,
     }),
-    ViteRestart.default({
+    ViteRestart({
       reload: ['templates/**/*'],
     }),
   ],
