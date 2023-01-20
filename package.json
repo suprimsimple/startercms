@@ -2,6 +2,14 @@
   "name": "prometheus",
   "description": "Starter project for Simple",
   "version": "2.0",
+  "dependencies": {
+    "@alpinejs/collapse": "^3.11.1",
+    "@alpinejs/focus": "^3.11.1",
+    "@alpinejs/intersect": "^3.11.1",
+    "alpinejs": "^3.11.1",
+    "alpinejs-breakpoints": "^2.1.1",
+    "lazysizes": "^5.3.2"
+  },
   "devDependencies": {
     "@tailwindcss/aspect-ratio": "^0.4.2",
     "@tailwindcss/line-clamp": "^0.4.2",
@@ -46,9 +54,6 @@
     "not ie_mob 10",
     "not ie_mob 11",
     "not and_uc 11.8"
-  ],
-  "dependencies": {
-    "alpinejs": "^3.11.1",
-    "lazysizes": "^5.3.2"
-  }
+  ]
+
 }
