@@ -1,0 +1,9 @@
+{
+  "editor.formatOnSave": true,
+  "[javascript]": { "editor.defaultFormatter": "esbenp.prettier-vscode" },
+  "prettier.useTabs": true,
+  "prettier.singleQuote": true,
+  "emmet.includeLanguages": {
+    "twig": "html"
+  }
+}
